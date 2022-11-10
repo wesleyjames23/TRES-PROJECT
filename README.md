@@ -1,3 +1,3 @@
 # TRES-PROJECT
 
-Menu application to help customer to check menu
+Menu website to help customer to check menu
